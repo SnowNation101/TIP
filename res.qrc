@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>gugong.png</file>
+        <file>password.png</file>
+        <file>username.png</file>
+        <file>map.png</file>
+        <file>hotrank.png</file>
+        <file>minpath.png</file>
+        <file>recommend.png</file>
+        <file>search.png</file>
+        <file>circle.png</file>
+        <file>point001.jpg</file>
+        <file>point002.jpg</file>
+        <file>point003.jpg</file>
+        <file>point004.jpg</file>
+        <file>point005.jpg</file>
+        <file>point006.jpg</file>
+        <file>point007.jpg</file>
+        <file>point008.jpg</file>
+        <file>point009.jpg</file>
+        <file>point010.jpg</file>
+        <file>point011.jpg</file>
+        <file>point012.jpg</file>
+        <file>point013.jpg</file>
+        <file>point014.jpg</file>
+        <file>point015.jpg</file>
+        <file>point016.jpg</file>
+        <file>point017.jpg</file>
+        <file>point018.jpg</file>
+        <file>point019.jpg</file>
+        <file>point020.jpg</file>
+        <file>point021.jpg</file>
+        <file>point022.jpg</file>
+        <file>point023.jpg</file>
+        <file>point024.jpg</file>
+    </qresource>
+</RCC>
